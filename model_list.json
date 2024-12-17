@@ -2,9 +2,6 @@
     "models": [
         "Potion-Maker/Pio",
         [
-            "ShizukuTalk/shizuku-pajama"
-        ],
-        [
             "HyperdimensionNeptunia/neptune_classic",
             "HyperdimensionNeptunia/nepnep",
             "HyperdimensionNeptunia/neptune_santa",
@@ -29,6 +26,6 @@
         "KantaiCollection/murakumo"
     ],
     "messages": [
-        "来自 Potion Maker 的 Pio 酱123 ~"
+        "来自 Potion Maker 的 Pio 酱123434 ~"
     ]
 }
